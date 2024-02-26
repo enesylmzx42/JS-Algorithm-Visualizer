@@ -1,0 +1,116 @@
+* {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  margin: 0;
+  background-color: #2c3e50; /* Koyu Gri */
+  color: #fff; /* Beyaz Yazı Rengi */
+}
+
+/* Header stilleri */
+header {
+  background-color: #ffcc00; 
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand {
+  color: #fff; /* Beyaz */
+  font-weight: bold; 
+  display: flex;
+  align-items: center;
+}
+
+/* Navigasyon stilleri */
+nav {
+  padding: 15px 0;
+}
+
+/* Başlık stilleri */
+h2 {
+  color: #9b9da1;
+}
+
+/* Form stilleri */
+.form-inline {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.btn-primary,
+.btn-danger,
+.btn-info {
+  background-color: #007bff;
+  border-color: #007bff;
+  font-weight: bold;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+.btn-danger {
+  background-color: #dc3545;
+  border-color: #dc3545;
+}
+
+.btn-info {
+  background-color: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-color: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.btn-info:hover {
+  background-color: #138496;
+  border-color: #138496;
+}
+
+/* Chart Container stilleri */
+.bar-chart {
+  margin-top: 5vh;
+  background-color: #343a40;
+  padding: 30px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 10px;
+}
+
+#chart {
+  text-align: center;
+}
+
+/* Genel Container stilleri */
+.container {
+  margin: 20px auto;
+}
+.container h2 {
+  margin: 20px auto;
+  text-align: center;
+}
+
+
+/* Footer stilleri */
+footer {
+  background-color: #343a40;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+  border-top: 2px solid #f8d300;
+}
+
+.footer-text p {
+  margin: 0;
+}
+
+.footer-text .love {
+  color: #dc3545;
+}
+label {
+  display: block;
+  margin-bottom: 10px;
+  color: #f8f9fa; 
+  margin-top: 6px; 
+}
+
+label input {
+  vertical-align: middle;
+  margin-top: 3px; 
+}
