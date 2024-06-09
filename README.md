@@ -1,6 +1,5 @@
 # Algorithm Visualizer 
 
-### Algorithms
 - Sorting
   - Bubble Sort
   - Selection Sort
