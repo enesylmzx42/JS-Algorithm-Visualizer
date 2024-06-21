@@ -1,4 +1,4 @@
-## Sorting
+### Sorting
   - Bubble Sort
   - Selection Sort
 <br>
@@ -7,7 +7,9 @@
 <br>
 <br>
 <br>
-## Searching
+<br>
+
+### Searching
   - Binary Search
   - Linear Search
 <br>
