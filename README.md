@@ -1,4 +1,4 @@
-# Algorithm Visualizer 
+### Algorithm Visualizer 
 
 - Sorting
   - Bubble Sort
